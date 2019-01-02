@@ -1,0 +1,20 @@
+In order to install DR DOS you must make sure that you are
+booting from a floppy in drive A:. DR DOS will not install
+from drive B:. DR DOS comes on 3 1/2 inch low density
+floppies and 5 1/4 inch Hi-density floppies. If you need
+5 1/4 inch low-density disks (360K) send in the coupon that
+comes with your DR DOS.
+
+If the boot disk hangs while trying to load, usually it means
+there is an incompatible or faulty piece of hardware.
+
+One of the things it can be is simply an older floppy 
+drive that is out of alignment.  Sometimes the situation
+can be salvaged by formatting a floppy on the boot drive
+with the old DOS, then doing a diskcopy. The potential 
+problem is that the diskcopy may not be able to read the 
+boot disk either. If you can't make a backup then it may 
+be necessary to get a replacement disk set from Digital
+Research (in case there is an actual error with the disk,
+which does sometime happen) or see about getting the 
+drives aligned.

@@ -1,0 +1,14 @@
+And finally, if you can read the disks but are unable to 
+	format a disk or make a diskcopy DR DOS may think you 
+	have a different type of floppy than you actually have.
+	Another symptom of this is if you are making a floppy
+	installation and DR DOS asks you for 5 1/4" floppies
+	when you actually have 3 1/2" floppies. If this is an XT
+        type computer (by which we mean it has no CMOS config-
+	uration program) then you can place a DRIVPARM state-
+	ment in your CONFIG.SYS. Refer to the DR DOS manual to
+	see how to use this parameter. DRIVPARM uses no RAM. It
+	merely updates the DR DOS drive tables with the type
+	drive you specify. If your computer does have a CMOS 
+	setup program then you need to correct the entries for
+        your floppy drives in CMOS.
