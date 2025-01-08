@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "732077476668",
+    "firebase_url": "https://androidtweets-9a522.firebaseio.com",
+    "project_id": "androidtweets-9a522",
+    "storage_bucket": "androidtweets-9a522.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732077476668:android:6b702745090d567da9ec39",
+        "android_client_info": {
+          "package_name": "com.example.androidtweets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732077476668-jpprv94nk7hgna1dpm7jcqml6ca9gtdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdVewEZbt1LBsJCaVOSbMSotnbIk3PHhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732077476668-jpprv94nk7hgna1dpm7jcqml6ca9gtdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
