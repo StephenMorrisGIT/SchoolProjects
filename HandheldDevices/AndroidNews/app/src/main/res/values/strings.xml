@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android News</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="news_results_title">News near %1$s</string>
+    <string name="number_sources">0 Selected</string>
+    <string name="api_key">ad597c08de3347f9b00107d349dc0dbe</string>
+</resources>
